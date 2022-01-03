@@ -2,6 +2,6 @@
 using namespace std;
 
 int main() {
-  cout << "Vector!";
+  cout << "Vector";
   return 0;
 }
